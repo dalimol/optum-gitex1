@@ -18,3 +18,5 @@ public class DemoGitApplication {
 
 // issue 1
 // issue 3
+
+// A local changes will conflict with the main branch
