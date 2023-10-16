@@ -16,5 +16,4 @@ public class DemoGitApplication {
 
 // Changes from new branch
 
-// issue 1
-// issue 3
+//Remote changes
