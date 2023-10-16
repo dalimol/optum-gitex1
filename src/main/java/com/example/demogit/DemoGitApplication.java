@@ -17,5 +17,4 @@ public class DemoGitApplication {
 // Changes from new branch
 
 // issue 1
-// issue 2
 // issue 3
