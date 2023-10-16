@@ -21,3 +21,7 @@ public class DemoGitApplication {
 
 // A local changes will conflict with the main branch
 //Remote changes
+
+// Squash 1
+// Squash 2
+// Squash 3
